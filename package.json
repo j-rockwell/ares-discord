@@ -1,0 +1,19 @@
+{
+  "name": "ares-discord",
+  "version": "1.0.0",
+  "description": "Discord bot for the Ares community Discord server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "discord",
+    "bot"
+  ],
+  "author": "John Rockwell",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
